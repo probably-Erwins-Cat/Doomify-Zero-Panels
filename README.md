@@ -1,5 +1,5 @@
 # Doomify-Zero-Panels
-![Scanner](https://github.com/probably-Erwins-Cat/OpenScan-Design/blob/main/images/OpenScanMiniV2.jpg?raw=true)
+![Doomify-Zero-Panel](https://github.com/probably-Erwins-Cat/Doomify-Zero-Panels/tree/main/images/closeup-mini.png?raw=true)
 
 A double-pane version of the popular Zero Panels for the Voron 0. This repo is a mashup of various Voron ideas:
 - ZeroPanels: https://github.com/zruncho3d/ZeroPanels
