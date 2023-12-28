@@ -7,7 +7,7 @@ A double-pane version of the popular Zero Panels for the Voron 0. This repo is a
 - ZP for Stock Voron 0: https://github.com/adooze/ZeroPanels_for_Stock_V0.2
 - Pandora Gantry: https://github.com/MasturMynd/Pandora
 - DoomMini from the DOOM-Cube Discord channel.
-- 
+
 The Doomify-Zero panels are nearly all print-in-place; only hinged parts benefit from supports (or outstanding cooling) and the integrated spool holder part.
 
 ![Doomify-Zero-Panel](https://github.com/probably-Erwins-Cat/Doomify-Zero-Panels/blob/main/images/overview.png?raw=true)
