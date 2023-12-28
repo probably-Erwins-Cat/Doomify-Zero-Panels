@@ -1,13 +1,13 @@
 # Doomify-Zero-Panels
 ![Doomify-Zero-Panel](https://github.com/probably-Erwins-Cat/Doomify-Zero-Panels/blob/main/images/closeup-mini.png?raw=true)
-
-
 A double-pane version of the popular Zero Panels for the Voron 0. This repo is a mashup of various Voron ideas:
 - ZeroPanels: https://github.com/zruncho3d/ZeroPanels
 - ZP for Stock Voron 0: https://github.com/adooze/ZeroPanels_for_Stock_V0.2
 - Pandora Gantry: https://github.com/MasturMynd/Pandora
 - DoomMini from the DOOM-Cube Discord channel.
 The Doomify-Zero panels are nearly all print-in-place; only hinged parts benefit from supports (or outstanding cooling) and the integrated spool holder part.
+![Doomify-Zero-Panel](https://github.com/probably-Erwins-Cat/Doomify-Zero-Panels/blob/main/images/overview.png?raw=true)
+
 
 # Higher Chamber Temperatures and shorter Warm-up
 The purpose is to provide easier access to double-pane Voron 0 without significantly overhauling the printer. Double-pane windows offer an ideal insulation layer and, thus, higher chamber temperatures and/or shorter warm-up times. This mod harmonizes well with bed fans and carbon filters. All you need is a second set of acrylic panels, a roll of VHB and foam tape. The Installation is virtually identical to the original Zero Panels, but you have to sandwich your second panel between the parts.
